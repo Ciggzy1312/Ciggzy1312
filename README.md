@@ -1,6 +1,22 @@
 ### Hi , I'm Deepayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ciggzy1312" alt="devded" /></p>
 
+<br>
+
+I am Deepayan Mukherjee, a junior from India who is passionate about development and learning new technologies. I am an open source enthusiast and has contributed to several large scale projects and helped many fellow students across communities to get involved in the world of open source. 
+<br>
+I love coding, coffee and travelling
+
+#### Currently looking for an internship
+
+<br>
+<br>
+
+I am always open to collaborating on projects and discussing innovative ideas.
+<br>
+Feel free to connect with me 
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepayan-mukherjee-a7ba821ab/)
 [![Twitter](https://img.shields.io/badge/-twitter_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Ciggzy_)
 [![Gmail](https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepayanmukherjee1312@gmail.com)
