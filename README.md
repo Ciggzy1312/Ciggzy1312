@@ -10,7 +10,6 @@ I love coding, coffee and travelling
 #### Currently looking for an internship
 
 <br>
-<br>
 
 I am always open to collaborating on projects and discussing innovative ideas.
 <br>
