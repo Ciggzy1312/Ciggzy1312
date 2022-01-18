@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 
-## :computer: Tools & Technologies I Love
+
+
+## :computer: Tools & Technologies I work with
 * **Language**: JavaScript, Golang, Typescript
 * **Frameworks/Libraries**: React, NextJs, Tailwind CSS, Express, Fiber, Gorilla
 * **Database**: MongoDB, PostgreSQL
 * **Devops**: Docker, Kubernetes, AWS
+
+
 
 <p align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ciggzy1312&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" /></p>
 <img width="47%" height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciggzy1312&layout=compact" />
