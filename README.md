@@ -6,6 +6,8 @@
 [![Gmail](https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepayanmukherjee1312@gmail.com)
 [![Hashnode](https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Ciggzy)
 
+<br>
+
 ## :computer: Tools & Technologies I work with
 * **Language**: JavaScript, Golang, Typescript
 * **Frameworks/Libraries**: React, NextJs, Tailwind CSS, Express, Fiber, Gorilla
@@ -13,9 +15,14 @@
 * **Devops**: Docker, Kubernetes, AWS
 
 
+<br>
+<br>
+<br>
 
-<p align="left"><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Ciggzy1312&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" /></p>
-<img width="47%" height="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciggzy1312&layout=compact" />
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Ciggzy1312&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" /></p>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ciggzy1312&layout=compact" />
 <!--
 **Ciggzy1312/Ciggzy1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
