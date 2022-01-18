@@ -1,7 +1,10 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ciggzy1312" alt="devded" /></p>
 
-
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepayan-mukherjee-a7ba821ab/)
+[![Twitter](https://img.shields.io/badge/-twitter_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Ciggzy_)
+[![Gmail](https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepayanmukherjee1312@gmail.com)
+[![Hashnode](https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Ciggzy)
 
 ## :computer: Tools & Technologies I work with
 * **Language**: JavaScript, Golang, Typescript
