@@ -26,7 +26,7 @@ Feel free to connect with me
 ## :computer: Tools & Technologies I work with
 * **Language**: JavaScript, Golang, Typescript
 * **Frameworks/Libraries**: React, NextJs, Tailwind CSS, Express, Fiber, Gorilla
-* **Database**: MongoDB, PostgreSQL
+* **Database**: MongoDB, PostgreSQL, Redis
 * **Devops**: Docker, Kubernetes, AWS
 
 
