@@ -1,4 +1,4 @@
-### Hi , I'm Deepayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+### Hi , I'm Deepayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ciggzy1312" alt="devded" /></p>
 
 <br>
